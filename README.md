@@ -1,4 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
+## NAME: JEY SHREE S
+## REF NO: 25017927
 
 **AIM:**
 
@@ -23,6 +25,22 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+![WhatsApp Image 2025-12-26 at 19 53 57_d9ff616f](https://github.com/user-attachments/assets/39b9d3ac-e584-4d44-b7a8-36c67742dc4e)
+
+![WhatsApp Image 2025-12-26 at 19 54 30_08f11d1d](https://github.com/user-attachments/assets/a4fa892b-1bfb-4dd2-99ea-eee826a6b701)
+
+![WhatsApp Image 2025-12-26 at 19 54 46_8d91d03c](https://github.com/user-attachments/assets/35905f19-6bad-4548-99d2-198a97fb1f7d)
+
+![WhatsApp Image 2025-12-26 at 19 55 04_3eeb47ed](https://github.com/user-attachments/assets/086083a5-4ab6-481c-a195-e1e1c84846c3)
+
+![WhatsApp Image 2025-12-26 at 19 55 24_46131258](https://github.com/user-attachments/assets/d8917c87-bdda-4472-860e-d5914b8bbbfb)
+
+![WhatsApp Image 2025-12-26 at 19 55 42_40a69828](https://github.com/user-attachments/assets/1a40412b-6214-406e-9ce3-160e23a7c62a)
+
+
+
+
+
 
 **To measure IL**
 
